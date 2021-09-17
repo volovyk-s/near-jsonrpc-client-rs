@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RpcAdversarialSwitchToHeightRequest",""]],"type":[["RpcAdversarialSwitchToHeightError",""],["RpcAdversarialSwitchToHeightResponse",""]]});

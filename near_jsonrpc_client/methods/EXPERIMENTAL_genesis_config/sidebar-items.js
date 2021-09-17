@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GenesisConfig",""],["RpcGenesisConfigRequest",""]],"type":[["RpcGenesisConfigError",""]]});

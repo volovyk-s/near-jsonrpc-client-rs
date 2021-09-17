@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RpcAdversarialDisableDoomslugRequest",""]],"type":[["RpcAdversarialDisableDoomslugError",""],["RpcAdversarialDisableDoomslugResponse",""]]});

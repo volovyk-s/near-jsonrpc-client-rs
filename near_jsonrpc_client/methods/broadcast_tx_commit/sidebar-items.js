@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RpcTransactionError",""]],"struct":[["FinalExecutionOutcomeView","Final execution outcome of the transaction and all of subsequent the receipts."],["RpcBroadcastTxCommitRequest",""],["SignedTransaction",""]]});

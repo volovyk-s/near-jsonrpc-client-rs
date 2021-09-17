@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RpcValidatorError",""]],"struct":[["EpochValidatorInfo","Information about this epoch validators and next epoch validators"],["RpcValidatorRequest",""]]});

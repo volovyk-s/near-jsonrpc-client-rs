@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RpcAdversarialSetWeightRequest",""]],"type":[["RpcAdversarialSetWeightError",""],["RpcAdversarialSetWeightResponse",""]]});
